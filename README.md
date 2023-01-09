@@ -1,10 +1,7 @@
 # README
 #### By: Emma Assiradoo and Avery Leiss
 
-## We created an Image Processing application that allows
-users to upload/select an image and perform various
-manipulations on it, from flipping the image to
-applying filters and altering its color.
+### We created an Image Processing application that allows users to upload/select an image and perform various manipulations on it, from flipping the image to applying filters and altering its color.
 ---
 ## Interfaces
 ###### - IAddInstructions:
