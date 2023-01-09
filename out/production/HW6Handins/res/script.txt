@@ -1,0 +1,26 @@
+load src/res/DUCK.jpg duckJPG jpg
+load src/res/DUCK.jpg duckPNG png
+load src/res/DUCK.jpg duckPPM ppm
+load src/res/DUCK.jpg duckBMP bmp
+
+blur duckJPG blurredDuckJPG
+blur duckPNG blurredDuckPNG
+blur duckPPM blurredDuckPPM
+blur duckBMP blurredDuckBMP
+
+save src/res/blurredDuckJPG.jpg blurredDuckJPG jpg
+save src/res/blurredDuckPNG.png blurredDuckJPG png
+save src/res/blurredDuckPPM.ppm blurredDuckJPG ppm
+save src/res/blurredDuckBMP.bmp blurredDuckJPG bmp
+
+sepia duckJPG blurredDuckJPG
+sepia duckPNG blurredDuckPNG
+sepia duckPPM blurredDuckPPM
+sepia duckBMP blurredDuckBMP
+
+save src/res/blurredDuckJPG.jpg blurredDuckJPG jpg
+save src/res/blurredDuckPNG.png blurredDuckJPG png
+save src/res/blurredDuckPPM.ppm blurredDuckJPG ppm
+save src/res/blurredDuckPPM.ppm blurredDuckJPG ppm
+
+
